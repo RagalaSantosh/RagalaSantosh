@@ -5,6 +5,8 @@ I am a passionate data scientist and machine learning engineer with experience i
 Role: Data Scientist
 Company: Big 4 (Confidential)
 Location: [Bangalore, India]
+
+
 **Expertise**
 **Machine Learning (ML) and Deep Learning (DL)**
 Design and implement ML/DL models for various tasks, including classification, regression, and recommendation systems.
